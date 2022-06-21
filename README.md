@@ -33,3 +33,4 @@ Code style:
 Testing:
 - Jest
 
+> Data may change during the development phase...
